@@ -1,0 +1,9 @@
+﻿  RobotArm-template.cpp
+c:\users\user\documents\github\2020_2\computergraphics\hw3_robotarm\robotarm\robotarm-template.cpp(116): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\documents\github\2020_2\computergraphics\hw3_robotarm\robotarm\robotarm-template.cpp(117): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\documents\github\2020_2\computergraphics\hw3_robotarm\robotarm\robotarm-template.cpp(187): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\documents\github\2020_2\computergraphics\hw3_robotarm\robotarm\robotarm-template.cpp(192): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\documents\github\2020_2\computergraphics\hw3_robotarm\robotarm\robotarm-template.cpp(217): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\documents\github\2020_2\computergraphics\hw3_robotarm\robotarm\robotarm-template.cpp(222): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\documents\github\2020_2\computergraphics\hw3_robotarm\robotarm\robotarm-template.cpp(231): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RobotArm.vcxproj -> C:\Users\User\Documents\GitHub\2020_2\ComputerGraphics\HW3_RobotArm\x64\Debug\RobotArm.exe
